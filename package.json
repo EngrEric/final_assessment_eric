@@ -1,0 +1,22 @@
+{
+  "name": "final_assessment_eric",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngrEric/final_assessment_eric.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngrEric/final_assessment_eric/issues"
+  },
+  "homepage": "https://github.com/EngrEric/final_assessment_eric#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
